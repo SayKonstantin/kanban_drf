@@ -1,0 +1,7 @@
+asgiref==3.6.0
+Django==4.1.7
+django-crispy-forms==2.0
+djangorestframework==3.14.0
+pytz==2022.7.1
+sqlparse==0.4.3
+crispy-tailwind==0.5.0
